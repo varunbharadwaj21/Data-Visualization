@@ -1,11 +1,11 @@
 # DVT Cleaned Practical Notebooks
 
-This cleaned set includes **only the corrected versions** of Digital Video Technology practical notebooks.
+This set includes **only the corrected versions** of Data Visualization Techniques practical notebooks.
 
 ## Structure
 
 ```
-dvt_cleaned/
+data visualisation/
 ├── notebooks/
 │   ├── Audio_Visualisation.ipynb
 │   ├── Image_Classification_PIL.ipynb
