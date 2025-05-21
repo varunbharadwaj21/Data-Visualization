@@ -1,6 +1,6 @@
 # DVT Cleaned Practical Notebooks
 
-This set includes **only the corrected versions** of Data Visualization Techniques practical notebooks.
+This set includes **Data Visualization Techniques** practical notebooks.
 
 ## Structure
 
