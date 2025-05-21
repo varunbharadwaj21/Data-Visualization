@@ -7,11 +7,11 @@ This cleaned set includes **only the corrected versions** of Digital Video Techn
 ```
 dvt_cleaned/
 ├── notebooks/
-│   ├── DVT_Practical_Corrected_Audio_Visualisation.ipynb
-│   ├── DVT_Practical_Corrected_Image_Classification_PIL.ipynb
-│   ├── DVT_Practical_Corrected_Monthly_Sales.ipynb
-│   ├── DVT_Practical_Corrected_Population_Growth.ipynb
-│   ├── DVT_Practical_Corrected_US_Population_Choropleth.ipynb
+│   ├── Audio_Visualisation.ipynb
+│   ├── Image_Classification_PIL.ipynb
+│   ├── Monthly_Sales.ipynb
+│   ├── Population_Growth.ipynb
+│   ├── US_Population_Choropleth.ipynb
 └── README.md
 ```
 
@@ -36,4 +36,4 @@ Some notebooks use interactive visualizations (e.g., Choropleth maps with Plotly
 To open in Colab, upload the notebook and select **Open with Colab**.
 
 ### Newly Added Interactive Notebook:
-- `DVT_Practical_Corrected_CO2_Emissions_Interactive.ipynb`
+- `CO2_Emissions_Interactive.ipynb`
