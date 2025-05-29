@@ -7,11 +7,6 @@ This set includes **Data Visualization Techniques** practical notebooks.
 ```
 data visualisation/
 ├── notebooks/
-│   ├── Audio_Visualisation.ipynb
-│   ├── Image_Classification_PIL.ipynb
-│   ├── Monthly_Sales.ipynb
-│   ├── Population_Growth.ipynb
-│   ├── US_Population_Choropleth.ipynb
 └── README.md
 ```
 
